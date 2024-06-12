@@ -1,5 +1,6 @@
-## Jira [ CET - 36 ]
-https://daelim-univ.atlassian.net/browse/CET-36
+## Jira 상위 [ CET-21 ] / 하위 [ CET - 36 ]
+[CET-21] https://daelim-univ.atlassian.net/browse/CET-21  
+[CET-36] https://daelim-univ.atlassian.net/browse/CET-36
 
 [API & GRAPHQL]
 
