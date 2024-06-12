@@ -1,3 +1,5 @@
+##Jira https://daelim-univ.atlassian.net/browse/CET-20
+
 [API & GRAPHQL]
 
 5주차 API 와 GRAPHQL 실습
