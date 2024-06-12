@@ -1,3 +1,6 @@
+## Jira [ CET - 36 ]
+https://daelim-univ.atlassian.net/browse/CET-36
+
 [API & GRAPHQL]
 
 5주차 API 와 GRAPHQL 실습
