@@ -1,3 +1,8 @@
+## CET-2
+그래프 api 컨트롤러 테스트리졸브 작성
+
+https://daelim-univ.atlassian.net/jira/software/c/projects/CET/boards/5?label=FIRST&search=minki%20kim&selectedIssue=CET-28
+
 [API & GRAPHQL]
 
 5주차 API 와 GRAPHQL 실습
